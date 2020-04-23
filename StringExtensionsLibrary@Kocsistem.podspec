@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
 s.name         = 'StringExtensionsLibrary@Kocsistem'
-s.version      = '3.5.11'
+s.version      = '1.1.2'
 s.summary      = 'KocSistem StringExtensionsLibrary framework'
 s.description  = 'A description of StringExtensionsLibrary Library'
 s.homepage     = 'https://dev.azure.com/oneframemobile/OneFrameIOS/_wiki/wikis/OneFrameIOS.wiki'

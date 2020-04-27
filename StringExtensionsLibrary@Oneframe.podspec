@@ -7,7 +7,7 @@
 #
 
 Pod::Spec.new do |s|
-s.name         = 'StringExtensionsLibrary@Kocsistem'
+s.name         = 'StringExtensionsLibrary@Oneframe'
 s.version      = '1.1.2'
 s.summary      = 'KocSistem StringExtensionsLibrary framework'
 s.description  = 'A description of StringExtensionsLibrary Library'
